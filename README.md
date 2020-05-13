@@ -1,6 +1,6 @@
 # TIL
 A collection of small stuff I want to remember.
 
-###Compiler flags
+### Compiler flags
 
-- [-ffast_math](/Compiler flags/-ffast_math-md)
+- [fast pow with -ffast_math](/Compiler&#32;flags/-ffast-math.md)
