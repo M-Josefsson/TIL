@@ -1,6 +1,6 @@
 Simple way to parallelize a for-loop using joblib.
 
-```
+```Python
 from joblib import Parallel, delayed
 import multiprocessing
 
