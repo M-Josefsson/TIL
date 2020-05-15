@@ -1,6 +1,6 @@
 Basic shell script for serial jobs.
 
-```
+```shell
 #!/bin/bash
 #
 # job time, change for what your job requires
