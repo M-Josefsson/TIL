@@ -1,7 +1,7 @@
 Here are the shell scripts used to run many small serial jobs in parallel. The master script is sent to sbatch, which then calls the slave script once per serial job. 
 
-Master.sh
-```
+master.sh
+```shell
 #!/bin/sh
 # requesting the number of nodes needed
 #SBATCH -N 1
@@ -37,8 +37,7 @@ wait
 
 slave.sh
 
-```
-
+```shell
 #!/bin/sh
 # document this script to stdout (assumes redirection from caller)
 cat $0
@@ -58,4 +57,4 @@ module load GCC/4.9.3-binutils-2.25
 module load GSL/2.1
 
 # run the program
-
+./my_program
