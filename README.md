@@ -20,3 +20,7 @@ A collection of small stuff I want to remember.
 ### Python
 
 - [Parallelize for loop](/Python/Parallel-loop.md)
+
+### c++
+
+- [Fast complex logarithm](/c++/complex_logarithm.md) 
