@@ -24,3 +24,4 @@ A collection of small stuff I want to remember.
 ### c++
 
 - [Fast complex logarithm](/c++/complex_logarithm.md) 
+- [Define units using literals](c++/user-defined-literals.md)
